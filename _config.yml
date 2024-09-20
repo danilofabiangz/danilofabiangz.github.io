@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Danilo Fabián González / Portfolio"
+title                    : "Danilo Fabián González"
 title_separator          : "-"
 name                     : &name "Danilo Fabián González"
 description              : &description "personal description"
@@ -25,8 +25,8 @@ author:
   name             : "Danilo Fabián González"
   pronouns         : # example: "she/her"  
   bio              : "BI Analyst - Data Scientist"
-  location         : "Bs. As., Argentina"
-  employer         : "Red Brick University"
+  location         : "Buenos Aires, Argentina"
+  employer         : 
   uri              : # URL
   email            : "danilofabiangz@gmail.com" 
 
