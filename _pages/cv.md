@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Lic. En Análisis y Gestión de datos - Universidad Nacional de San Luis. (2023 - Act.)
+* Lic. En Management - Universidad de Palermo. (2020)
+* Diplomatura en Marketing - Universidad de Buenos Aires. (2019)
 
-Work experience
+
+Experiencia Laboral
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -40,6 +41,18 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Idiomas
+======
+* Inglés B2
+* Español Nativo
+
+Cursos y Capacitaciones
+======
+* Fundamentos profesionales del análisis de datos, por Microsoft y LinkedIn. 
+* Data analyst: Técnicas y herramientas de informes avanzado. Linkedin.
+* Microsoft Excel: Intermedio, Funciones, Tablas Dinámicas y +. Udemy.
+* Domina el marketing digital. Linkedin.
 
 Publications
 ======
