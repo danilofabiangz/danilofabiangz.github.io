@@ -1,4 +1,4 @@
-/* ========================================================================== 
+/* ==========================================================================
    FOOTER
    ========================================================================== */
 
@@ -9,25 +9,18 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  
   /* sticky footer fix start */
   position: absolute;
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
-
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
-  
-  /* Animación */
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-
-  /* Fondo con degradado de azul oscuro a claro */
-  background: linear-gradient(180deg, #003366 0%, #99ccff 100%);
-
+  background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 
   footer {
@@ -60,17 +53,9 @@
   }
 }
 
-/* Centrar el contenido */
-.page__footer-copyright,
-.page__footer-follow {
-  text-align: center;
-}
-
-/* Tamaño y fuente del texto */
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  margin-top: 10px;
 }
 
 .page__footer-follow {
@@ -78,7 +63,6 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    display: inline-block;
   }
 
   li {
@@ -88,7 +72,6 @@
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
-    margin-right: 10px; /* Espacio entre los ítems */
   }
 
   li + li:before {
@@ -97,8 +80,8 @@
   }
 
   a {
+    padding-right: 10px;
     font-weight: bold;
-    color: #fff; /* Color blanco para los enlaces */
   }
 
   .social-icons {
@@ -107,3 +90,4 @@
     }
   }
 }
+
