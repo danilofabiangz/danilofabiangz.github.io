@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "🏠"
 title_separator          : "-"
 name                     : &name "Danilo Fabián González"
 description              : &description "personal description"
