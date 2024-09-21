@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "⌂"
 title_separator          : "-"
 name                     : &name "Danilo Fabián González"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Danilo Fabián González"
   pronouns         : # example: "she/her"  
   bio              : "BI Analyst - Data Scientist"
-  location         : "Buenos Aires, Argentina 🇦🇷"
+  location         : "Buenos Aires, Argentina"
   employer         : 
   uri              : # URL
   email            : "danilofabiangz@gmail.com" 
