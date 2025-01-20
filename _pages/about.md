@@ -22,8 +22,11 @@ Los datos no son solo números; son piezas de un rompecabezas más grande. Lo qu
 📊 Habilidades clave:
 
 ▪️ Análisis y modelado predictivo con Python, SQL y herramientas estadísticas.
+
 ▪️ Visualización de datos con Tableau, Power BI y bibliotecas de Python.
+
 ▪️ Conexión entre negocio y tecnología para resolver problemas estratégicos.
+
 ▪️ Foco en proyectos de impacto en los sectores tecnológico, financiero, biotech y farma.
 
 🔎 Lo que me motiva:
@@ -35,6 +38,7 @@ Paralelamente, ofrezco servicios de consultoría para pymes, mini pymes y startu
 Si buscas un aliado para potenciar tu empresa o quieres explorar ideas sobre cómo los datos pueden marcar la diferencia, no dudes en contactarme. 
 
 📩 danilofabiangz@gmail.com
+
 🌎 Buenos Aires, Argentina.
 
 
