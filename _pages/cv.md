@@ -25,13 +25,15 @@ Experiencia Laboral
   * Análisis de métricas para la formulación de estrategia que impulsen el crecimiento y la competitividad del negocio.
   * Soporte al área de marketing en la planificación, aprobación y ejecución de las tareas generales.
 
-* Customer Success Specialist - Wibond (may. 2022 - ago. 2023) - Rubro Fintech
-  * Consolidar los reportes de las métricas de CX Care, Sales & Collections en distintas herramientas, como dashboards, heatmaps, resúmenes ejecutivos, etc.
-  * Desarrollar la voz del usuario llevando a cabo las iniciativas que surjan a partir del programa, promoviendo la mejora continua en los procesos y el producto.
-  * Identificar áreas de mejora en los procesos de Customer Care y Customer Sales.
-  * Idear y ejecutar en conjunto con el Head de CX y el resto de las áreas iniciativas de fidelización y de retención de usuario.
-  * Documentación de procesos y tareas de CX y Collections.
-  * Toma de decisiones con fundamento en el análisis de la información.
+* Customer Insights & Business Analyst - Wibond (may. 2022 - ago. 2023) - Rubro Fintech
+  • Analizar y consolidar métricas clave de Customer Experience (CX), Sales y Collections utilizando dashboards, heatmaps y resúmenes ejecutivos para identificar 
+    oportunidades de mejora en productos y procesos.
+  • Tomar decisiones estratégicas basadas en el análisis de datos, optimizando procesos de negocio y mejorando la eficiencia operativa en áreas como Customer Care y Customer 
+    Sales.
+  • Liderar iniciativas centradas en el usuario, generando insights accionables a partir de los datos y colaborando con áreas clave para mejorar la conversión, retención y 
+    fidelización de usuarios en la plataforma.
+  • Colaborar con equipos multidisciplinarios para implementar soluciones basadas en datos, impulsando mejoras continuas en productos y servicios de la billetera virtual.
+  • Automatizar y documentar procesos de análisis de datos y generación de reportes para asegurar la eficiencia, consistencia y mejora continua en la toma de decisiones.
 
 * Analista de Marketing - Segurarse (abr. 2021 - may. 2022) - Rubro Insurtech
   * Análisis de métricas y gestión de campañas de Anuncios de Búsqueda, Descubrimiento, Display, YouTube y Facebook.
