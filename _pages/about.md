@@ -11,7 +11,7 @@ redirect_from:
 
 Siempre me ha intrigado cómo los datos pueden contar historias que cambian el rumbo de una empresa. Esa curiosidad me llevó a especializarme en análisis de datos, con un enfoque claro en generar impacto real en sectores que me apasionan: empresas tecnológicas, fintech, biotech y farma.
 
-Vengo del mundo de la Administración, donde aprendí a entender los engranajes de los negocios. Hoy, mientras curso una Licenciatura en Análisis y Gestión de Datos en la UNSL, estoy uniendo esas dos pasiones: el pensamiento estratégico y el poder transformador de las herramientas analíticas avanzadas.
+Vengo del mundo de la Administración, donde aprendí a entender los engranajes de los negocios. Hoy, mientras curso una Maestría en Gestión y Análisis de Datos Financieros en la UBA, estoy uniendo esas dos pasiones: el pensamiento estratégico y el poder transformador de las herramientas analíticas avanzadas.
 
 💡**Qué hago?**
 
