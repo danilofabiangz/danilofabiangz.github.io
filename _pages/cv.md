@@ -12,8 +12,11 @@ redirect_from:
 Educación
 ======
 * Maestría en Gestión y Análisis de Datos Financieros - UBA (2025 - Act.)
+  
 * Lic. En Análisis y Gestión de datos - Universidad Nacional de San Luis. (2023 - 2025)
+  
 * Lic. En Management con orientación en Economía y Finanzas - Universidad de Palermo. (2020 - 2022)
+  
 * Diplomatura en Marketing - Universidad de Buenos Aires. (2019)
 
 
